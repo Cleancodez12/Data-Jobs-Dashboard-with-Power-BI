@@ -2,7 +2,9 @@
 
 ## Executive Summary
 
-![Alt text](Images\Data_job_dashboard_home.png) This dashboard was created for
+![Dashboard Home](https://raw.githubusercontent.com/Cleancodez12/Data-Jobs-Dashboard-with-Power-BI/main/Images/Data_job_dashboard_home.png)
+
+ This dashboard was created for
 Job Seekers, Job Transitioners, and Job Swappers to solve a common problem: Are
 you navigating the fast-evolving world of data careers? Whether you're a Job
 Seeker, Transitioner, or Swapper, this dashboard is designed to empower you with
@@ -46,7 +48,8 @@ information into a centralized, interactive experience.
 
 ## 🚀 Dashboard Overview
 
-![Alt text](Images\Data_job_dashboard_home.png)
+![Dashboard Home](https://raw.githubusercontent.com/Cleancodez12/Data-Jobs-Dashboard-with-Power-BI/main/Images/Data_job_dashboard_home.png)
+
 
 ### **Page 1: Market Insights Summary**
 
@@ -60,7 +63,8 @@ provides a snapshot of key **KPIs**:
 Designed for quick analysis, this page helps users monitor hiring trends and
 identify opportunities at a glance.
 
-![Alt text](Images\Data_jobs_drill_through.png)
+![Dashboard Home](https://raw.githubusercontent.com/Cleancodez12/Data-Jobs-Dashboard-with-Power-BI/main/Images/Data_jobs_drill_through.png)
+
 
 ### **Page 2: Job Title Deep Dive**
 
